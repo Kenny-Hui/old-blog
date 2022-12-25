@@ -21,7 +21,7 @@ author: LX86
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://lx862.com"
+  Main Site: "https://lx862.com"
 
 ################
 # --- Logo --- #
@@ -29,10 +29,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: ""
+# avatar: ""
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -70,7 +70,7 @@ social-network-links:
   mastodon: wetdry.world/@LX862
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: LX86#2271
+  discord: "204071499135582208"
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -85,13 +85,13 @@ rss-description: Welcome to LX86's Blog.
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: ""
+# url-pretty: ""
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
