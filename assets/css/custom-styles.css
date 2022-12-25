@@ -1,7 +1,21 @@
-body {
+body, .navbar-custom {
     font-family: 'Roboto', 'Times New Roman', serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6, .post-preview a {
     font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.intro-header .page-heading h1 {
+    font-size: 4rem;
+}
+
+.navbar-custom {
+    background-color: rgba(240,240,240, 0.7);
+    transition: padding .25s ease-in-out;
+    backdrop-filter: blur(7px);
+}
+
+.blog-tags a {
+    transition: .2s;
 }
