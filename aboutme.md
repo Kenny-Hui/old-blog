@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Human.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is LX86. \[he/him\] I am just yet another person living on the Earth.
+[Learn more about me here](https://lx862.com)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free leave a comment if I got anything wrong/want to give suggestions!
