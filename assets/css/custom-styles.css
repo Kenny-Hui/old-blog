@@ -6,6 +6,13 @@ h1,h2,h3,h4,h5,h6, .post-preview a {
     font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+@media (min-width: 1200px) {
+    .navbar-custom {
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+    }
+}
+
 .intro-header .page-heading h1 {
     font-size: 3rem;
 }
@@ -16,9 +23,16 @@ h1,h2,h3,h4,h5,h6, .post-preview a {
 }
 
 .navbar-custom {
-    background-color: rgba(40,160,200, 0.7);
+    background-color: rgba(100,140,170, 0.7);
+    background-size: cover;
     transition: padding .25s ease-in-out;
     backdrop-filter: blur(7px);
+}
+
+.navbar-brand-logo {
+    -webkit-transition: padding .25s ease-in-out;
+    -moz-transition: padding .25s ease-in-out;
+    transition: padding .25s ease-in-out;
 }
 
 .blog-tags a {
